@@ -1,19 +1,13 @@
 ### Hi I'am Kang-Berontak 👋
 
-<!--
-**Kang-Berontak/Kang-Berontak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Kang-Berontak [ GanzXD ]`
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Please Follow My Github
+I am a beginner
+So Please Support Thank You
+Thanks for reading the text
+```
 
 ####    My Sosia media
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/GanzXDNihBoss)
