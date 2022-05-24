@@ -2,7 +2,7 @@
 
 `Kang-Berontak [ GanzXD ]`
 
-```
+```python
 Please Follow My Github
 I am a beginner
 So Please Support Thank You
