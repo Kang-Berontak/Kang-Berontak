@@ -3,10 +3,17 @@
 `Kang-Berontak [ GanzXD ]`
 
 ```python
-Please Follow My Github
-I am a beginner
-So Please Support Thank You
-Thanks for reading the text
+┌─
+│ ┌[!] Media Sosial Me 🌍🌍
+│ ├[+] Author  : Kang-Berontak [ Ganz-XD ]
+│ ├[+] YouTube : Ga Punya
+│ └[+] Contact : +6281911259961
+└─
+┌─
+│ ┌[!] Programmer 📝📝
+│ ├[+] Program : python ( basic )
+│ ├[+] Program : Bash ( basic )
+└─
 ```
 
 ####    My Sosia media
