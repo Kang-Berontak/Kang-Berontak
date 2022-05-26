@@ -28,7 +28,7 @@
 </p>
 
 ## Repository Statistic
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kang-Berontak&repo=Compile&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Kang-Berontak&repo=KUNING&theme=dark)
 
 ## Github Statistic
 
