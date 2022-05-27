@@ -32,5 +32,5 @@
 
 ## Github Statistic
 
-<p align="center"><a href="https://github.com/Lord-Ammar"><img src="https://github-readme-stats.vercel.app/api?username=Kang-Berontak&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Lord-Ammar"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-Berontak&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Kang-Berontak"><img src="https://github-readme-stats.vercel.app/api?username=Kang-Berontak&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Kang-Berontak"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kang-Berontak&theme=radical&layout=compact"></a></p> 
