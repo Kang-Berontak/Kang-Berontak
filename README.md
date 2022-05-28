@@ -33,3 +33,7 @@
 ## Github Statistic
 
 <p align="center"><a href="https://github.com/Kang-Berontak"><img src="https://github-readme-stats.vercel.app/api?username=Kang-Berontak&show_icons=true&theme=radical"></a></p>
+
+## THANKS
+
+<p><img src="1653699645297.jpg" /></p>
